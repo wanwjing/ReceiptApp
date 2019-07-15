@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ReceiptApp</string>
+    <string name="food">Food</string>
+    <string name="description">Description</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="step">Step</string>
+    <string name="type">Type</string>
+
+    <string name="dash">-</string>
+
+</resources>

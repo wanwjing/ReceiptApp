@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="top_bot_field">
+        <attr name="header" format="reference" />
+        <attr name="desc" format="reference" />
+        <attr name="is_edit" format="boolean" />
+    </declare-styleable>
+</resources>

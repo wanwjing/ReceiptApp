@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--<item-->
+            <!--android:id="@+id/spinner"-->
+            <!--android:title="ActionBar Spinner"-->
+            <!--android:icon="@drawable/ic_more"-->
+            <!--app:actionViewClass="android.widget.Spinner"-->
+            <!--android:background="#ff00"-->
+            <!--app:showAsAction="always" />-->
+
+    <item
+            android:id="@+id/i_add"
+            android:title="more"
+            android:icon="@drawable/ic_add"
+            android:background="#ff00"
+            app:showAsAction="ifRoom"/>
+</menu>
